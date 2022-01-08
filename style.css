@@ -1,0 +1,238 @@
+body{
+
+    background-color: cornsilk;
+    text-align: center;
+    font-weight: bolder;
+    color: black;
+    font-size: 20px;
+    font-family: century;
+    
+}
+
+#number1{
+
+    background-color: gold;
+    color:red;
+    text-align: center;
+    font-weight: bolder;
+    font-family: century;
+    
+}
+
+#number2{
+
+    background-color: gold;
+    color:red;
+    text-align: center;
+    font-weight: bolder;
+    font-family: century;
+   
+}
+
+#number3{
+
+    background-color: gold;
+    color:red;
+    text-align: center;
+    font-weight: bolder;
+    font-family: century;
+    
+}
+
+#number4{
+
+    background-color: gold;
+    color:red;
+    text-align: center;
+    font-weight: bolder;
+    font-family: century;
+    
+}
+
+#number5{
+
+    background-color: gold;
+    color:red;
+    text-align: center;
+    font-weight: bolder;
+    font-family: century;
+  
+}
+
+#n1no{
+
+    
+    color: white;
+    text-align: center;
+    font-weight: bolder;
+    font-family: century;
+  
+}
+
+#text2{
+
+    
+    color: black;
+    text-align: center;
+    font-weight: bolder;
+    font-family: century;
+    
+  
+}
+
+#text1{
+
+    
+    color: black;
+    text-align: center;
+    font-weight: bolder;
+    font-family: century;
+    
+  
+}
+
+#number0{ 
+
+    width: 50px;
+    height: 50px;
+}
+
+#img1{ 
+
+    height: 300px;
+    width: 600px;
+}
+
+#img2{ 
+
+    height: 200px;
+}
+
+#img3{ 
+
+    height: 280px;
+}
+
+
+#description2{
+
+    background-color: white;
+    color: black;
+    text-align: center;
+    font-weight: bolder;
+    font-family: century;
+}
+
+#description3{
+
+    background-color: white;
+    color: black;
+    text-align: center;
+    font-weight: bolder;
+    font-family: century;
+}
+
+#description1{
+
+    background-color: white;
+    color: black;
+    text-align: center;
+    font-weight: bolder;
+    font-family: century;
+}
+
+#heading3{
+
+    
+    text-align: center;
+    font-weight: bolder;
+    font-size: 20px;
+    font-family: century;
+}
+
+#heading1{
+
+  
+
+    text-align: center;
+    font-weight: bolder;
+    font-size: 20px;
+    font-family: century;
+}
+
+#heading2{
+
+    
+    text-align: center;
+    font-weight: bolder;
+    font-size: 20px;
+    font-family: century;
+       
+}
+
+#title{
+    background-color: rgb(252, 72, 72);
+   color: white;
+    font-size: 65px;
+    font-family: century;
+ 
+}
+
+#no3{
+
+   width: 900px;
+   height: 600px;
+}
+
+#no2{
+
+    width: 800px;
+    height: 500px;
+ }
+
+ #no1{
+
+    width: 700px;
+    height: 600px;
+ }
+
+ #menu{
+
+    text-align: center;
+    cursor: pointer;
+ }
+
+ #num1{
+
+    text-align: center;
+    cursor: pointer;
+ }
+
+ #num2{
+
+    text-align: center;
+    cursor: pointer;
+
+    
+ }
+
+ #num3{
+
+    text-align: center;
+    cursor: pointer;
+ }
+
+ #first{
+
+    text-align: center;
+    
+ }
+
+ #achievements{
+
+    text-align: center;
+    
+ }
+
+
+ 
